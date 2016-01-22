@@ -16,7 +16,6 @@ public class Thaydeptrai {
      */
     public static void main(String[] args) {
         System.out.println("hello thay dep traiiiii");
-        System.out.println("Thay Hoang dep trai");
     }
     
 }
